@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java/Python Development, React Native, and Artificial Intelligence**
 
-- 👨‍💻 Some of my favorite projects are available at [atharvabiyani.com](atharvabiyani.com)
-
 - 💬 Ask me about **Angular Framework, Machine Learning w/ Python, and Azure DevOps**
 
 - 📫 How to reach me **atharvabiyani@gmail.com**
