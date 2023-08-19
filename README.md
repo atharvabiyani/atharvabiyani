@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atharvabiyani@gmail.com**
 
-- 👨‍💻 Some of my favorite projects are available at **[atharvabiyani.com](atharvabiyani.com)**
+- 👨‍💻 Some of my favorite projects are available at [**atharvabiyani.com**](http://atharvabiyani.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
