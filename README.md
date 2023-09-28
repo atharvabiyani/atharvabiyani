@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atharva Biyani</h1>
-<h3 align="center">A passionate full stack developer studying computer science</h3>
+<h1>Hi 👋, I'm Atharva Biyani</h1>
+<h3>A passionate full stack developer studying computer science</h3>
 <img align=”right” alt=”Coding” width=”700” src="https://user-images.githubusercontent.com/63386979/170636410-12bef17a-ca4c-494b-8efa-5856f8fb9ee9.gif">
 
 
