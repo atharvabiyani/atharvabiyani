@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Atharva Biyani</h1>
-<h3>A passionate full stack developer studying computer science</h3>
+<h3>A passionate student studying computer science at UT Dallas</h3>
 <img align=”right” alt=”Coding” width=”700” src="https://user-images.githubusercontent.com/63386979/170636410-12bef17a-ca4c-494b-8efa-5856f8fb9ee9.gif">
 
 
-- 🌱 I’m currently learning **Java/Python Development, React Native, and Artificial Intelligence**
+- 🌱 I’m currently learning **Cloud Computing, Java/Python Development, and React**
 
-- 💬 Ask me about **Angular Framework, Machine Learning w/ Python, and Azure DevOps**
+- 💬 Ask me about **AWS, Machine Learning w/ Python, and Angular Development**
 
 - 📫 How to reach me **atharvabiyani@gmail.com**
 
