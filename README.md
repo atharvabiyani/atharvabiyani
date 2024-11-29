@@ -1,6 +1,12 @@
-<h1>Hi 👋, I'm Atharva Biyani</h1>
-<h3>A passionate student studying computer science at UT Dallas</h3>
-<img align=”right” alt=”Coding” width=”700” src="https://user-images.githubusercontent.com/63386979/170636410-12bef17a-ca4c-494b-8efa-5856f8fb9ee9.gif">
+<h1>Hi 👋, I'm Atharva</h1>
+
+<h2>Welcome to my profile! </h2>
+
+I have a strong interest in **cloud computing**, **data analytics**, and **full-stack development**, aiming to develop scalable, data-driven solutions that drive innovation. Feel free to explore my projects! 🚀
+
+
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 
 - 🌱 I’m currently learning **Cloud Computing, Java/Python Development, and React**
