@@ -2,7 +2,7 @@
 
 <h2>Welcome to my profile! </h2>
 
-I have a strong interest in **product management**, **artificial intelligience**, and **full-stack development**, aiming to develop scalable, data-driven solutions that drive innovation. Feel free to explore my projects! 🚀
+I have a strong interest in **cloud computing**, **artificial intelligience**, and **full-stack development**, aiming to develop scalable, data-driven solutions that drive innovation. Feel free to explore my projects! 🚀
 
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
@@ -10,7 +10,7 @@ I have a strong interest in **product management**, **artificial intelligience**
 
 
 - 🌱 I have experience with **Cloud Computing, Sprint Planning, and Angular**
-- 💡 Interests: **AWS, Machine Learning w/ Python, and Product Management**
+- 💡 Interests: **AWS, Machine Learning w/ Python, and DevOps**
 - 📫 How to reach me: [**atharvabiyani@gmail.com**](mailto:atharvabiyani@gmail.com)
 - 👨‍💻 Some of my favorite projects are available at [**atharvabiyani.com**](http://atharvabiyani.com)
 
