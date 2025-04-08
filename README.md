@@ -12,7 +12,7 @@ I have a strong interest in **cloud computing**, **artificial intelligience**, a
 - 🌱 I have experience with **Cloud Computing, Sprint Planning, and Angular**
 - 💡 Interests: **AWS, Machine Learning w/ Python, and DevOps**
 - 📫 How to reach me: [**atharvabiyani@gmail.com**](mailto:atharvabiyani@gmail.com)
-- 👨‍💻 Some of my favorite projects are available at [**atharvabiyani.com**](http://atharvabiyani.com)
+- 👨‍💻 Some of my favorite projects are available at [**atharvabiyani.vercel.app**](https://atharvabiyani.vercel.app/)
 
 
 
