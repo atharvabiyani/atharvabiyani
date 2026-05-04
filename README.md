@@ -2,9 +2,9 @@
 
 <h2>Welcome to my profile! </h2>
 
-I’m a Software Engineer at Oracle by day and a Master’s student in AI at UT Austin by night. I’m passionate about building systems that are as smart as they are scalable.
+I’m a Software Engineer at Oracle and a Master’s student in AI at UT Austin. I’m focused on building systems that are as smart as they are scalable.
 
-Right now, I’m balancing the world of enterprise-scale cloud infrastructure while working with generative AI and agentic workflows. I love the challenge of taking complex academic concepts and turning them into production-ready code.
+Right now, I’m balancing the world of enterprise-scale cloud infrastructure while working with generative AI and agentic workflows.
 
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
