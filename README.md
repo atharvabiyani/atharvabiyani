@@ -14,7 +14,6 @@ Right now, I’m balancing the world of enterprise-scale cloud infrastructure wh
 - 🌱 Currently Scaling: **Distributed Systems at Oracle while pursuing my MS in AI at UT Austin**
 - 💡 Interests: **Agentic AI, High-Performance Data Pipelines, and Cloud Infrastructure**
 - 📫 How to reach me: [**atharvabiyani@gmail.com**](mailto:atharvabiyani@gmail.com)
-- 👨‍💻 Personal Portfolio: [**atharvabiyani.vercel.app**](https://atharvabiyani.vercel.app/)
 
 
 
